@@ -1,0 +1,48 @@
+ï»¿id,name,website,lat,long,primary_poc,sales_rep_id
+1071,"General Motors",www.gm.com,40.80551762,-76.7101814,"Barrie Omeara",321570
+1441,"United Technologies",www.utc.com,42.329397,-75.15785469,"Janett Wisecarver",321520
+1531,"Cisco Systems",www.cisco.com,41.20101093,-76.53824668,"Deadra Waggener",321610
+1621,"HCA Holdings",www.hcahealthcare.com,40.76981958,-73.98813714,"Hubert Blanch",321700
+1651,"Tyson Foods",www.tysonfoods.com,40.75518241,-73.98323704,"Ardelle Khoury",321520
+1671,"Delta Air Lines",www.delta.com,40.75860903,-73.99067048,"Enola Thoms",321510
+1691,"Johnson Controls",www.johnsoncontrols.com,40.76346837,-73.97890353,"Cammy Sosnowski",321500
+1791,"United Continental Holdings",www.unitedcontinentalholdings.com,40.75034782,-73.9777814,"Diedra Crossman",321640
+1851,"Gilead Sciences",www.gilead.com,42.35445028,-71.05788145,"Nickie Moulden",321640
+2972,"Publix Super Markets",www.publix.com,42.35850315,-71.05281548,"Cherri Sienkiewicz",321630
+1911,"World Fuel Services",www.wfscorp.com,504,-71.06350665,"Kasandra Correa",321590
+2031,"Enterprise Products Partners",www.enterpriseproducts.com,42.355919,-71.06244313,"Marina Catoe",321700
+2081,McDonald's,www.aboutmcdonalds.com,41.87849555,-87.63388882,"Alisa Rega",321730
+2101,"Sears Holdings",www.searsholdings.com,41.87718869,-87.63438258,"Hsiu Benedetti",321750
+2993,"Plains GP Holdings",www.plainsallamerican.com,41.87725114,-87.62856309,"Ethan Penaloza",321760
+2311,Staples,www.staples.com,41.88072746,-87.63152959,"Mallory Gosselin",321720
+2371,"Abbott Laboratories",www.abbott.com,42.34766317,-99.04391886,"Seymour Olmedo",321720
+2411,"Southwest Airlines",www.southwest.com,39.3452361,-97.77547794,"Idalia Agosta",321760
+2441,Kohl's,www.kohlscorporation.com,38.79562182,-94.92705558,"Rico Rison",321790
+2451,Starbucks,www.starbucks.com,40.88161357,-98.3522873,"David Trousdale",321740
+2471,Cummins,www.cummins.com,40.42480254,-94.07990516,"Lavonda Geier",321760
+2771,"Baker Hughes",www.bakerhughes.com,33.65513972,-84.38382661,"Richelle Borger",321830
+2831,"Icahn Enterprises",www.ielp.com,33.69649327,-84.30293953,"Lindsay Malbon",321890
+2991,"DaVita HealthCare Partners",www.davita.com,33.7448623,-84.39693032,"Ursula Sarinana",321850
+3011,"WellCare Health Plans",www.wellcare.com,33.77458136,-84.367811,"Tobi Whiteaker",321870
+3021,CBS,www.cbscorporation.com,33.74979835,-84.3674757,"Huong Fortino",321880
+3091,Loews,www.loews.com,30.42191113,-84.27288598,"Melda Ensey",321850
+3101,"Illinois Tool Works",www.itw.com,30.42626607,-84.28540192,"Rosena Jessop",321860
+3141,"Land O'Lakes",www.landolakesinc.com,30.42636273,-84.26621578,"Ana Blount",321800
+3171,"Yum Brands",www.yum.com,30.42579805,30,13,124
+3060,"Texas Instruments",www.ti.com,93,30,83,321840
+3331,"L Brands",www.lb.com,35.06072852,-86.07782705,"Lisabeth Aitken",321860
+3541,"R.R. Donnelley & Sons",www.rrdonnelley.com,34.05634691,-118.2439596,"Vania Warthen",321940
+3751,"Global Partners",www.globalp.com,34.05561326,-118.2511887,"Jordan Fils",321950
+3811,"Precision Castparts",www.precast.com,34.05874763,-118.2441193,"Louis Whitted",321910
+3821,"Discover Financial Services",www.discoverfinancial.com,34.05349642,-118.2367564,"Lauryn Hogge",321920
+3981,"CST Brands",www.cstbrands.com,34.05521925,-118.2424474,"Shasta Rodas",321980
+4031,"Hormel Foods",www.hormelfoods.com,38.72909817,-121.3384751,"Keturah Cuadrado",321930
+4061,"PayPal Holdings",www.paypal.com,38.71633626,-121.8572861,"Birgit Lacasse",321960
+4111,"Republic Services",www.republicservices.com,38.71182916,-121.2192105,"Gail Widmer",321910
+4171,"Thrivent Financial for Lutherans",www.thrivent.com,38.27652691,-121.3359097,"Janyce Mun",321970
+4191,"HD Supply Holdings",www.hdsupply.com,38.71758605,-121.4724289,"Stephnie Mccrum",321990
+4281,"SunTrust Banks",www.suntrust.com,36.16116503,-115.1294713,"Monserrate Winsett",321930
+4341,"United Natural Foods",www.unfi.com,36.17010987,-115.1471363,"Savanna Gayman",321920
+4351,"Dean Foods",www.deanfoods.com,36.17621316,-115.1394905,"Anabel Haskell",321910
+4371,"Mohawk Industries",www.mohawkind.com,36.18032753,-115.1359641,"Kym Hagerman",321910
+4451,"Lithia Motors",www.lithia.com,45.50439475,-122.6405347,"Nannie Brinkman",321960
