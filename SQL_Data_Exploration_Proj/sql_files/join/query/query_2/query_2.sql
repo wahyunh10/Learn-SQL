@@ -8,3 +8,5 @@ ON s.region_id = r.ï»¿id
 ORDER BY a.name
 LIMIT 100;
 /*When the names of column match in different tables (which are joined), it is mandatory to rename them for display*/
+
+-- Limited to 100 rows to avoid scrolling, total 351 row
