@@ -1,0 +1,352 @@
+name,reg_name
+Walmart,Northeast
+"Exxon Mobil",Northeast
+Apple,Northeast
+"Berkshire Hathaway",Northeast
+McKesson,Northeast
+"UnitedHealth Group",Northeast
+"CVS Health",Northeast
+"General Motors",Northeast
+"Ford Motor",Northeast
+AT&T,Northeast
+"General Electric",Northeast
+AmerisourceBergen,Northeast
+Verizon,Northeast
+Chevron,Northeast
+Costco,Northeast
+"Fannie Mae",Northeast
+Kroger,Northeast
+Amazon.com,Northeast
+"Walgreens Boots Alliance",Northeast
+HP,Northeast
+"Cardinal Health",Northeast
+"Express Scripts Holding",Northeast
+"J.P. Morgan Chase",Northeast
+Boeing,Northeast
+Microsoft,Northeast
+"Bank of America Corp.",Northeast
+"Wells Fargo",Northeast
+"Home Depot",Northeast
+Citigroup,Northeast
+"Phillips 66",Northeast
+IBM,Northeast
+"Valero Energy",Northeast
+Anthem,Northeast
+"Procter & Gamble",Northeast
+"State Farm Insurance Cos.",Northeast
+Alphabet,Northeast
+Comcast,Northeast
+Target,Northeast
+"Johnson & Johnson",Northeast
+MetLife,Northeast
+"Archer Daniels Midland",Northeast
+"Marathon Petroleum",Northeast
+"Freddie Mac",Northeast
+PepsiCo,Northeast
+"United Technologies",Northeast
+Aetna,Northeast
+Lowe's,Northeast
+UPS,Northeast
+AIG,Northeast
+"Prudential Financial",Northeast
+Intel,Northeast
+Humana,Northeast
+Disney,Northeast
+"Cisco Systems",Northeast
+Pfizer,Northeast
+"Dow Chemical",Northeast
+Sysco,Northeast
+FedEx,Northeast
+Caterpillar,Northeast
+"Lockheed Martin",Northeast
+"New York Life Insurance",Northeast
+Coca-Cola,Northeast
+"HCA Holdings",Northeast
+"Ingram Micro",Northeast
+"Energy Transfer Equity",Northeast
+"Tyson Foods",Northeast
+"American Airlines Group",Northeast
+"Delta Air Lines",Northeast
+Nationwide,Northeast
+"Johnson Controls",Northeast
+"Best Buy",Northeast
+Merck,Northeast
+"Liberty Mutual Insurance Group",Northeast
+"Goldman Sachs Group",Northeast
+"Honeywell International",Northeast
+"Massachusetts Mutual Life Insurance",Northeast
+Oracle,Northeast
+"Morgan Stanley",Northeast
+Cigna,Northeast
+"Ross Stores",Southeast
+"United Continental Holdings",Northeast
+Allstate,Northeast
+TIAA,Northeast
+"INTL FCStone",Northeast
+CHS,Northeast
+"American Express",Northeast
+"Gilead Sciences",Northeast
+"Publix Super Markets",Northeast
+"General Dynamics",Northeast
+TJX,Northeast
+ConocoPhillips,Northeast
+Nike,Northeast
+"World Fuel Services",Northeast
+3M,Northeast
+"Mondelez International",Northeast
+Exelon,Northeast
+"Twenty-First Century Fox",Northeast
+Deere,Northeast
+Tesoro,Northeast
+"Time Warner",Northeast
+"Northwestern Mutual",Northeast
+DuPont,Northeast
+Avnet,Northeast
+Macy's,Northeast
+"Enterprise Products Partners",Northeast
+"Travelers Cos.",Northeast
+"Philip Morris International",Northeast
+"Rite Aid",Midwest
+"Tech Data",Midwest
+McDonald's,Midwest
+Qualcomm,Midwest
+"Sears Holdings",Midwest
+"Capital One Financial",Midwest
+EMC,Midwest
+USAA,Midwest
+"Duke Energy",Midwest
+"Time Warner Cable",Midwest
+Halliburton,Midwest
+"Northrop Grumman",Midwest
+"Arrow Electronics",Midwest
+Raytheon,Midwest
+"Plains GP Holdings",Midwest
+"US Foods Holding",Midwest
+AbbVie,Midwest
+Centene,Midwest
+"Community Health Systems",Midwest
+Alcoa,Midwest
+"International Paper",Midwest
+"Emerson Electric",Midwest
+"Union Pacific",Midwest
+Amgen,Midwest
+"U.S. Bancorp",Midwest
+Staples,Midwest
+Danaher,Midwest
+Whirlpool,Midwest
+Aflac,Midwest
+AutoNation,Midwest
+Progressive,Midwest
+"Abbott Laboratories",Midwest
+"Dollar General",Midwest
+"Tenet Healthcare",Midwest
+"Eli Lilly",Midwest
+"Southwest Airlines",Midwest
+"Penske Automotive Group",Midwest
+ManpowerGroup,Midwest
+Kohl's,Midwest
+Starbucks,Midwest
+Paccar,Midwest
+Cummins,Midwest
+"Altria Group",Midwest
+Xerox,Midwest
+Kimberly-Clark,Midwest
+"Hartford Financial Services Group",Midwest
+"Kraft Heinz",Midwest
+Lear,Midwest
+Fluor,Southeast
+AECOM,Southeast
+Facebook,Southeast
+"Jabil Circuit",Southeast
+CenturyLink,Southeast
+Supervalu,Southeast
+"General Mills",Southeast
+Southern,Southeast
+"NextEra Energy",Southeast
+"Thermo Fisher Scientific",Southeast
+"American Electric Power",Southeast
+"PG&E Corp.",Southeast
+"NGL Energy Partners",Southeast
+"Bristol-Myers Squibb",Southeast
+"Goodyear Tire & Rubber",Southeast
+Nucor,Southeast
+"PNC Financial Services Group",Southeast
+"Health Net",Southeast
+"Micron Technology",Southeast
+Colgate-Palmolive,Southeast
+Freeport-McMoRan,Southeast
+"ConAgra Foods",Southeast
+Gap,Southeast
+"Baker Hughes",Southeast
+"Bank of New York Mellon Corp.",Southeast
+"Dollar Tree",Southeast
+"Whole Foods Market",Southeast
+"PPG Industries",Southeast
+"Genuine Parts",Southeast
+"Icahn Enterprises",Southeast
+"Performance Food Group",Southeast
+"Omnicom Group",Southeast
+"DISH Network",Southeast
+FirstEnergy,Southeast
+Monsanto,Southeast
+AES,Southeast
+CarMax,Southeast
+"National Oilwell Varco",Southeast
+"NRG Energy",Southeast
+"Western Digital",Southeast
+"Marriott International",Southeast
+"Office Depot",Southeast
+Nordstrom,Southeast
+"Kinder Morgan",Southeast
+Aramark,Southeast
+"DaVita HealthCare Partners",Southeast
+"Molina Healthcare",Southeast
+"WellCare Health Plans",Southeast
+CBS,Southeast
+Visa,Southeast
+"Lincoln National",Southeast
+Ecolab,Southeast
+Kellogg,Southeast
+"C.H. Robinson Worldwide",Southeast
+Textron,Southeast
+Loews,Southeast
+"Illinois Tool Works",Southeast
+Synnex,Southeast
+Viacom,Southeast
+HollyFrontier,Southeast
+"Land O'Lakes",Southeast
+"Devon Energy",Southeast
+"PBF Energy",Southeast
+"Yum Brands",Southeast
+"Texas Instruments",Southeast
+CDW,Southeast
+"Waste Management",Southeast
+"Marsh & McLennan",Southeast
+"Chesapeake Energy",Southeast
+Parker-Hannifin,Southeast
+"Occidental Petroleum",Southeast
+"Guardian Life Ins. Co. of America",Southeast
+"Farmers Insurance Exchange",Southeast
+"J.C. Penney",Southeast
+"Consolidated Edison",Southeast
+"Cognizant Technology Solutions",Southeast
+VF,Southeast
+"Ameriprise Financial",Southeast
+"Computer Sciences",Southeast
+"L Brands",Southeast
+"Jacobs Engineering Group",Southeast
+"Principal Financial",Southeast
+"Bed Bath & Beyond",Southeast
+CSX,Southeast
+"Toys 'R' Us",Southeast
+"Las Vegas Sands",Southeast
+"Leucadia National",Southeast
+"Dominion Resources",Southeast
+"United States Steel",Southeast
+"L-3 Communications",Southeast
+"Edison International",Southeast
+Entergy,Southeast
+ADP,Southeast
+"First Data",Southeast
+BlackRock,Southeast
+WestRock,West
+"Voya Financial",West
+Sherwin-Williams,West
+"Hilton Worldwide Holdings",West
+"R.R. Donnelley & Sons",West
+"Stanley Black & Decker",West
+"Xcel Energy",West
+"Murphy USA",West
+"CBRE Group",West
+"D.R. Horton",West
+"Estee Lauder",West
+Praxair,West
+Biogen,West
+"State Street Corp.",West
+"Unum Group",West
+"Reynolds American",West
+"Group 1 Automotive",West
+"Henry Schein",West
+"Hertz Global Holdings",West
+"Norfolk Southern",West
+"Reinsurance Group of America",West
+"Public Service Enterprise Group",West
+"BB&T Corp.",West
+"DTE Energy",West
+Assurant,West
+"Global Partners",West
+Huntsman,West
+"Becton Dickinson",West
+"Sempra Energy",West
+AutoZone,West
+"Navistar International",West
+"Precision Castparts",West
+"Discover Financial Services",West
+"Liberty Interactive",West
+"W.W. Grainger",West
+"Baxter International",West
+Stryker,West
+"Air Products & Chemicals",West
+"Western Refining",West
+"Universal Health Services",West
+"Owens & Minor",West
+"Charter Communications",West
+"Advance Auto Parts",West
+MasterCard,West
+"Applied Materials",West
+"Eastman Chemical",West
+"Sonic Automotive",West
+"Ally Financial",West
+"CST Brands",West
+eBay,West
+Lennar,West
+GameStop,West
+"Reliance Steel & Aluminum",West
+"Hormel Foods",West
+Celgene,West
+"Genworth Financial",West
+"PayPal Holdings",West
+"Priceline Group",West
+"MGM Resorts International",West
+Autoliv,West
+"Fidelity National Financial",West
+"Republic Services",West
+Corning,West
+"Peter Kiewit Sons'",West
+Univar,West
+Mosaic,West
+"Core-Mark Holding",West
+"Thrivent Financial for Lutherans",West
+"Cameron International",West
+"HD Supply Holdings",West
+"Crown Holdings",West
+"EOG Resources",West
+Veritiv,West
+"Anadarko Petroleum",West
+"Laboratory Corp. of America",West
+"Pacific Life",West
+"News Corp.",West
+Jarden,West
+"SunTrust Banks",West
+"Avis Budget Group",West
+Broadcom,West
+"American Family Insurance Group",West
+"Level 3 Communications",West
+Tenneco,West
+"United Natural Foods",West
+"Dean Foods",West
+"Campbell Soup",West
+"Mohawk Industries",West
+BorgWarner,West
+PVH,West
+Ball,West
+"O'Reilly Automotive",West
+"Eversource Energy",West
+"Franklin Resources",West
+Masco,West
+"Lithia Motors",West
+KKR,West
+Oneok,West
+"Newmont Mining",West
+PPL,West
+SpartanNash,West
