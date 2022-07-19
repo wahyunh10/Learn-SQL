@@ -1,0 +1,351 @@
+name,total_sales
+Walmart,124014.87000000001
+"Exxon Mobil",2734.59
+Apple,20767.15
+"Berkshire Hathaway",7474.32
+McKesson,15184.460000000001
+"UnitedHealth Group",21937.08
+"CVS Health",23667.51
+"General Motors",9995.05
+"Ford Motor",154811.42999999996
+AT&T,51647.76000000002
+"General Electric",25335.68
+AmerisourceBergen,38741.81
+Verizon,115376.17000000001
+Chevron,46725.41
+Costco,30741.01
+"Fannie Mae",3780.53
+Kroger,59946.4
+Amazon.com,28678.06
+"Walgreens Boots Alliance",130153.59000000001
+HP,56162.34
+"Cardinal Health",7210.91
+"Express Scripts Holding",19090.449999999997
+"J.P. Morgan Chase",94684.25
+Boeing,65091.39
+Microsoft,15454.01
+"Bank of America Corp.",93217.79999999999
+"Wells Fargo",200174.66
+"Home Depot",10667.46
+Citigroup,160051.04000000007
+"Phillips 66",131173.40999999997
+IBM,326819.48000000004
+"Valero Energy",52020.600000000006
+Anthem,47487.78
+"Procter & Gamble",22961.03
+"State Farm Insurance Cos.",111810.54999999999
+Alphabet,44407.22
+Comcast,12868.38
+Target,120523.91000000003
+"Johnson & Johnson",18242.739999999998
+MetLife,7615.47
+"Archer Daniels Midland",272672.83999999997
+"Marathon Petroleum",137227.88
+"Freddie Mac",234225.65
+PepsiCo,30095.72
+"United Technologies",235051.07
+Aetna,237781.3
+Lowe's,45873.469999999994
+UPS,10678.769999999999
+AIG,9980.929999999998
+"Prudential Financial",157782.52
+Intel,167717.4
+Humana,32937.92999999999
+Disney,205886.96999999994
+"Cisco Systems",130917.00000000001
+Pfizer,144865.83000000002
+"Dow Chemical",8431.81
+Sysco,278575.63999999996
+FedEx,119965.08000000002
+Caterpillar,81700.32999999999
+"Lockheed Martin",2440.31
+"New York Life Insurance",126898.91000000002
+Coca-Cola,43692.28999999999
+"HCA Holdings",10323.23
+"Ingram Micro",25198.550000000003
+"Energy Transfer Equity",19539.86
+"Tyson Foods",47417.76
+"American Airlines Group",30083.179999999993
+"Delta Air Lines",859.64
+Nationwide,76630.92000000001
+"Johnson Controls",37796.280000000006
+"Best Buy",163887.39000000004
+Merck,64536.16999999999
+"Liberty Mutual Insurance Group",16923.55
+"Honeywell International",86362.69999999998
+"Massachusetts Mutual Life Insurance",3927.05
+Oracle,31231.559999999998
+"Morgan Stanley",20277.570000000003
+Cigna,127671.94000000002
+"United Continental Holdings",118879.76000000001
+Allstate,96779.18000000001
+TIAA,7971.509999999999
+"INTL FCStone",2372.11
+CHS,167271.8
+"American Express",45557.50999999999
+"Gilead Sciences",62148.869999999995
+"Publix Super Markets",8364.4
+"General Dynamics",300694.7899999999
+TJX,140046.68000000002
+ConocoPhillips,15578.4
+Nike,390.25
+"World Fuel Services",10833.11
+3M,127945.1
+"Mondelez International",37465.37
+Exelon,27558.300000000007
+"Twenty-First Century Fox",42065.82000000001
+Deere,1036.57
+Tesoro,14482.599999999999
+"Time Warner",69479.05999999998
+"Northwestern Mutual",11862.92
+DuPont,25526.3
+Avnet,66812.23999999999
+Macy's,9613.32
+"Enterprise Products Partners",31971.72
+"Travelers Cos.",156582.24
+"Philip Morris International",137600.66999999998
+"Rite Aid",5616.9
+"Tech Data",19218.88
+McDonald's,47258.13
+Qualcomm,54114.020000000004
+"Sears Holdings",139015.09000000003
+"Capital One Financial",72595.01000000001
+EMC,36982.12
+USAA,46822.63
+"Duke Energy",118867.17000000001
+"Time Warner Cable",57130.53
+Halliburton,32645.38
+"Northrop Grumman",48578.159999999996
+"Arrow Electronics",281018.36
+Raytheon,94725.92000000001
+"Plains GP Holdings",11531.699999999999
+"US Foods Holding",27074.63
+AbbVie,11243.630000000001
+Centene,238962.47000000003
+"Community Health Systems",56644.600000000006
+Alcoa,19882.160000000003
+"International Paper",59086.759999999995
+"Emerson Electric",143471.26
+"Union Pacific",25107.81
+Amgen,82013.04999999999
+"U.S. Bancorp",26641.71
+Staples,15716.26
+Danaher,8133.47
+Whirlpool,32965.13
+Aflac,117862.77
+AutoNation,135822.85000000003
+Progressive,72875.83999999998
+"Abbott Laboratories",96819.92000000001
+"Dollar General",49975.93
+"Tenet Healthcare",33028.08
+"Eli Lilly",9339.199999999999
+"Southwest Airlines",125968.03999999996
+"Penske Automotive Group",26485.87
+ManpowerGroup,7313.08
+Kohl's,90105.16
+Starbucks,14875.19
+Paccar,161294.61999999997
+Cummins,34839.82
+"Altria Group",116165.15
+Xerox,8759.93
+Kimberly-Clark,29151.210000000003
+"Hartford Financial Services Group",20257.430000000004
+"Kraft Heinz",25765.170000000002
+Lear,23718.31
+Fluor,251299.77
+AECOM,18491.510000000002
+Facebook,23522.79
+"Jabil Circuit",79246.93
+CenturyLink,44535.04
+Supervalu,275288.30000000005
+"General Mills",32226.369999999995
+Southern,42881.21
+"NextEra Energy",5321.23
+"Thermo Fisher Scientific",153705.1
+"American Electric Power",32044.55
+"PG&E Corp.",81697.27
+"NGL Energy Partners",40607.06999999999
+"Bristol-Myers Squibb",188457.45999999996
+"Goodyear Tire & Rubber",185463.76000000004
+Nucor,60936.18000000001
+"PNC Financial Services Group",46208.37000000001
+"Health Net",27733.33
+"Micron Technology",2438.51
+Colgate-Palmolive,130893.51000000001
+Freeport-McMoRan,49162.7
+"ConAgra Foods",19142.48
+Gap,16791.91
+"Baker Hughes",19409.949999999997
+"Bank of New York Mellon Corp.",2155.98
+"Dollar Tree",10212.060000000001
+"Whole Foods Market",20240.66
+"PPG Industries",21960.88
+"Genuine Parts",61561.44
+"Icahn Enterprises",38851.149999999994
+"Performance Food Group",47645.86
+"Omnicom Group",41161.06000000001
+"DISH Network",253635.7500000001
+FirstEnergy,132868.82
+Monsanto,130964.10999999999
+AES,13038.64
+CarMax,64251.560000000005
+"National Oilwell Varco",131318.63999999998
+"NRG Energy",59727.21
+"Western Digital",269155.33999999997
+"Marriott International",10779.77
+"Office Depot",51477.19
+Nordstrom,31273.019999999997
+"Kinder Morgan",54891.56
+Aramark,21692.010000000002
+"DaVita HealthCare Partners",33982.78
+"Molina Healthcare",66381.57
+"WellCare Health Plans",9743.13
+CBS,8648.07
+Visa,61255.49999999999
+"Lincoln National",77628.11
+Ecolab,135517.95
+Kellogg,83419.37999999996
+"C.H. Robinson Worldwide",7460.32
+Textron,26339.699999999997
+Loews,2566.22
+"Illinois Tool Works",67439.95000000001
+Synnex,134039.25
+Viacom,33673.85999999999
+HollyFrontier,79488.37000000001
+"Land O'Lakes",138323.58999999997
+"Devon Energy",9536.550000000001
+"PBF Energy",18285.93
+"Yum Brands",28296.530000000002
+"Texas Instruments",54792.72
+CDW,101553.15000000001
+"Waste Management",10067.869999999999
+"Marsh & McLennan",16257.21
+"Chesapeake Energy",44534.950000000004
+Parker-Hannifin,15727.19
+"Occidental Petroleum",105115.44
+"Guardian Life Ins. Co. of America",157523.23999999996
+"Farmers Insurance Exchange",96376.93999999999
+"J.C. Penney",3253.0400000000004
+"Consolidated Edison",2674.04
+"Cognizant Technology Solutions",62504.05
+VF,18251.39
+"Ameriprise Financial",55883.55000000001
+"Computer Sciences",28012.069999999996
+"L Brands",17439.25
+"Jacobs Engineering Group",75600.49
+"Principal Financial",15177.8
+"Ross Stores",24961.87
+"Bed Bath & Beyond",1069.64
+CSX,35759.700000000004
+"Toys 'R' Us",56179.21000000001
+"Las Vegas Sands",1113.29
+"Leucadia National",291047.25000000006
+"Dominion Resources",64604
+"United States Steel",244695.99
+"L-3 Communications",22266.77
+"Edison International",37010.95
+Entergy,123503.17999999995
+ADP,163579.18
+"First Data",45967.25
+BlackRock,147599.56
+WestRock,13282.42
+"Voya Financial",15782.23
+Sherwin-Williams,2372.95
+"Hilton Worldwide Holdings",38648.009999999995
+"R.R. Donnelley & Sons",36218.43
+"Stanley Black & Decker",72788.52
+"Xcel Energy",19975.91
+"Murphy USA",36294.27
+"CBRE Group",9715.710000000001
+"D.R. Horton",98474.43999999999
+"Estee Lauder",38198.82000000001
+Praxair,19023.360000000004
+Biogen,19386.53
+"State Street Corp.",119173.59
+"Unum Group",22734.13
+"Reynolds American",49930.289999999986
+"Group 1 Automotive",30708.920000000002
+"Henry Schein",35487.34
+"Hertz Global Holdings",10959.77
+"Norfolk Southern",22100.01
+"Reinsurance Group of America",10264.509999999998
+"Public Service Enterprise Group",73833.01
+"BB&T Corp.",123847.32
+"DTE Energy",11501.84
+Assurant,1235.81
+"Global Partners",67909.95999999999
+Huntsman,20092.350000000002
+"Becton Dickinson",35961.76
+"Sempra Energy",38569.85
+AutoZone,65958.07
+"Navistar International",22484.81
+"Precision Castparts",63743.89
+"Discover Financial Services",57035.05
+"Liberty Interactive",6497.7
+"W.W. Grainger",8384.61
+"Baxter International",22681.17
+Stryker,4521.36
+"Air Products & Chemicals",11814.55
+"Western Refining",108579.84
+"Universal Health Services",5269.51
+"Owens & Minor",13507.23
+"Charter Communications",135924.15
+"Advance Auto Parts",6962.07
+MasterCard,10555.349999999999
+"Applied Materials",3093.95
+"Eastman Chemical",16303.42
+"Sonic Automotive",7192.13
+"Ally Financial",37653.96
+"CST Brands",122957.11000000004
+eBay,94244.44000000003
+Lennar,2670.97
+GameStop,38469.65
+"Reliance Steel & Aluminum",10187.64
+"Hormel Foods",88946.13999999998
+Celgene,96593.53
+"Genworth Financial",6402.380000000001
+"PayPal Holdings",84768.93999999997
+"Priceline Group",2129.24
+"MGM Resorts International",16976.760000000002
+Autoliv,10282.96
+"Fidelity National Financial",110027.29000000001
+"Republic Services",293861.14000000013
+Corning,7940.370000000001
+"Peter Kiewit Sons'",20232.97
+Univar,16626.6
+Mosaic,345618.5900000001
+"Core-Mark Holding",231856.97999999992
+"Thrivent Financial for Lutherans",38204.46000000001
+"Cameron International",67459.64999999998
+"HD Supply Holdings",50888.03
+"Crown Holdings",75110.81
+"EOG Resources",382873.3
+Veritiv,5735.41
+"Anadarko Petroleum",80328.56
+"Laboratory Corp. of America",25507.06
+"Pacific Life",255319.18000000002
+"News Corp.",34675.03
+Jarden,179761.43000000002
+"SunTrust Banks",99125.76000000001
+"Avis Budget Group",241711.24999999997
+Broadcom,75130.49999999999
+"American Family Insurance Group",153015.86999999997
+"Level 3 Communications",881.73
+Tenneco,5739.630000000001
+"United Natural Foods",54443.06
+"Dean Foods",26514.93
+"Campbell Soup",25765.949999999997
+"Mohawk Industries",3025.65
+BorgWarner,41242.060000000005
+PVH,10699.35
+Ball,1982.74
+"O'Reilly Automotive",9914.23
+"Eversource Energy",57059.76
+"Franklin Resources",135730.44000000003
+Masco,19963.61
+"Lithia Motors",107142.63000000003
+KKR,217473.85000000003
+Oneok,2844.46
+"Newmont Mining",9618.810000000001
+PPL,112176.02999999998
+SpartanNash,14629.16
