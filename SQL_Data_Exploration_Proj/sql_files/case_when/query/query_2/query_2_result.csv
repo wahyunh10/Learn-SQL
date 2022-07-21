@@ -1,0 +1,4 @@
+level_of_order,COUNT(*)
+"Less than 1000",1270
+"Between 1000 and 2000",1570
+"Atleast 2000",4072
