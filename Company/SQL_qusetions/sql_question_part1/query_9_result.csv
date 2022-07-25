@@ -1,0 +1,5 @@
+fname,lname,SUM(hours),dname
+John,Smith,40.0,Research
+Franklin,Wong,40.0,Research
+Joyce,English,40.0,Research
+Ramesh,Narayan,40.0,Research

@@ -1,0 +1,7 @@
+fname,lname,SUM(hours),dname,dependent_name
+John,Smith,40.0,Research,Michael
+John,Smith,40.0,Research,Elizabeth
+John,Smith,40.0,Research,Alice
+Franklin,Wong,40.0,Research,Joy
+Franklin,Wong,40.0,Research,Alice
+Franklin,Wong,40.0,Research," "Theodore""
