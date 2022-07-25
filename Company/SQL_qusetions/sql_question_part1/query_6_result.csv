@@ -1,0 +1,9 @@
+fname,lname,SUM(hours)
+John,Smith,40.0
+Franklin,Wong,40.0
+Joyce,English,40.0
+Ramesh,Narayan,40.0
+James,Borg,0.0
+Jennifer,Wallace,35.0
+Ahmad,Jabbar,40.0
+Alicia,Zelaya,40.0
